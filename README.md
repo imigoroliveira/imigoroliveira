@@ -10,6 +10,6 @@
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  https://picrew.me/share?cd=53h773BPhL #Picrew #AmphyPop_Doll_Maker
-  ##
+<img scr="[download20210802091305](https://user-images.githubusercontent.com/63355460/128013782-d7750818-6a1d-4b4d-936e-8b95e02f8c94.png)">
+
  </div>
