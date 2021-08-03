@@ -10,7 +10,7 @@
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  <img align="right" alt="Igor-Avatar" src="https://cdn.discordapp.com/avatars/757968306312314901/db991438356cbca942e1d6e435ae5aaa.png>
+  <img align="right" alt="Igor-Avatar" src="https://cdn.discordapp.com/avatars/757968306312314901/db991438356cbca942e1d6e435ae5aaa.png">
 
  
  </div>
